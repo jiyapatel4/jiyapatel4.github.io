@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
 title: Adversarial Curiosity
 description: No one will probably ever read this.
 author: jiyapatel4

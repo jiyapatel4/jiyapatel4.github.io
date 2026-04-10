@@ -1,3 +1,3 @@
 ---
-title: Is this malware?
+title: My mind is malware.
 ---
