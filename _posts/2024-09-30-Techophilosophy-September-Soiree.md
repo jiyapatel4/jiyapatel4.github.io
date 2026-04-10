@@ -3,7 +3,7 @@ title: "Techophilosophy: September Soiree"
 date: 2024-09-30
 ---
 ## Can we ensure artificial intelligence is safe?
-![rogue robot clicking a destructive red button](robot_image1.png)
+
 On September 10th, everyone was clinking glasses and sipping cocktails in the Isabel Bader Theater, secretly wondering, "What if AI goes rogue?".
 
 U of T students and the greater community gathered that evening to listen to experts Roger Grosse, Sedef Kocak, Sheila Mcllairth, and moderator Karina Vold demystify AI safety and address our post-apocalyptic fears. In this article, I'll summarize the panellist's perspectives on AI safety, media representation, and what excites them about the future of AI.
