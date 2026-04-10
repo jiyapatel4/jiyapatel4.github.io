@@ -1,6 +1,6 @@
 ---
 title: "OSTEP Musings: Ch.2 Introduction to Operating Systems"
-date: 2026-09-04
+date: 2026-04-09
 ---
 The purpose of the OS is distilled and pure: to make the system easy to use. I was beyond delighted to learn that before the modern OS was conceived, there was a human operator who ran programs one at a time and maintained the "integrity" of the queue order. I can almost imagine it, Jeff, a disgruntled employee, standing in front of the cumbersome mainframe with a minute to go before lunch, and he decides running your job can wait. Jeff clearly has his priorities straight. 
 
