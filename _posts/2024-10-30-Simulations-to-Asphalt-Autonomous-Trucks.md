@@ -2,9 +2,6 @@
 title: "Simulations to Asphalt: Autonomous Trucks"
 date: 2024-10-30
 ---
-
----
-
 "It took 3 and a half years for Netflix to reach 1 million users, Airbnb 2 and a half years, Facebook 10 months, and if you look at ChatGPT, it took 5 days", Raquel Urtasun, CEO and founder of Waabi, a startup leading the autonomous truck industry, breaks down the preternatural numbers. As a part of the Department of Computer Science's Distinguished Lecture Series, Urtasun spoke about AI transitioning from the digital to the physical world.
 
 AI is transforming our institutions and societies, but what enabled this revolution?
