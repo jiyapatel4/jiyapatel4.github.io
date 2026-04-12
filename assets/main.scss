@@ -1,0 +1,39 @@
+--- 
+--- 
+@import "minima";
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans&display=swap');
+
+.gallery-grid {
+    margin-bottom: 60px;
+
+}
+
+.gallery-grid .acne-pic {
+    border: 2px solid rgb(222, 139, 178);
+    border-radius: 5px;
+    background-color: rgb(255, 225, 244);
+    width: 222px;
+    gap: 30px;
+}
+
+.pic-row {
+    display: grid;
+    gap: 30px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(4, 1fr);
+
+}
+
+.acne-text {
+    color: gray;
+    font-family: 'Google Sans', sans-serif;
+    white-space: nowrap
+}
+
+
+.acne-date {
+    color: gray;
+    font-family: 'Google Sans', sans-serif;
+
+}
