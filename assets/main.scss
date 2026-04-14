@@ -31,9 +31,18 @@
     white-space: nowrap
 }
 
+.timeline-text {
+    color: gray;
+    font-family: 'Google Sans', sans-serif;
+    white-space: wrap;
+}
+
+.timeline-text-date {
+    color: rgb(222, 139, 178);
+    font-family: 'Google Sans', sans-serif;
+}
 
 .acne-date {
     color: gray;
     font-family: 'Google Sans', sans-serif;
-
 }
