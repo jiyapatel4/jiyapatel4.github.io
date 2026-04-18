@@ -3,6 +3,8 @@ layout: gallery
 title: "Acne Panorama: My Spironolactone Journey"
 date: 2026-04-13
 ---
+**Trigger Warning**: This post contains images and content regarding skin picking and mild dermatillomania.
+
 I took perverse satisfaction in scratching my acne and lacerating my pustules. Cathartic. That’s what it was. During the start of my third year at U of T, my skin inexplicably exploded, but really, it was a long time coming. Greasy skin catching the overhead light in pictures and the errant skin-deep red blip on my cheek were the dreaded hallmarks of hormonal acne. When I was focusing on code, rereading the same OSTEP passage thrice in a row, or trying to figure out backpropagation, my fingers sought my face. The picking was habitual, the marring felt permanent. I almost took pleasure in feeling subhuman, like the rules of society didn’t apply to me. I could pull inward, reticent and hyperfocused on my courses and academic work, so I could survive and keep my head above water. But the truth is, at some point, it got to me.
 
 
